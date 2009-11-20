@@ -1,3 +1,66 @@
 body {
   font-family: Verdana;
   font-size: 10pt; }
+
+#navi {
+  width: 800px;
+  margin: 0 auto;
+  font-size: 8pt; }
+  #navi ul {
+    margin: 0; }
+  #navi li {
+    display: inline;
+    border-bottom: solid gray 1px;
+    margin-right: 2px; }
+    #navi li a {
+      text-decoration: none; }
+
+#main {
+  width: 800px;
+  padding: 10px;
+  margin: 0 auto; }
+
+#abstract {
+  width: 700px;
+  padding: 0 50px; }
+  #abstract table {
+    align: center;
+    margin: auto; }
+  #abstract img.logo {
+    width: 120px;
+    margin-right: 10px; }
+  #abstract td {
+    padding: 0;
+    vertical-align: top;
+    color: gray;
+    font-size: 14pt; }
+
+#service {
+  width: 760px;
+  padding: 20px; }
+  #service table {
+    margin: 0;
+    padding: 0; }
+  #service th {
+    width: 200px;
+    vertical-align: bottom;
+    font-size: 14pt; }
+  #service td {
+    vertical-align: top;
+    width: 200px;
+    padding: 0 25px; }
+  #service img {
+    width: 200px;
+    height: 200px; }
+
+#message {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center; }
+
+#footer {
+  margin-top: 1em;
+  border-top: 1px solid black;
+  text-align: center; }
+  #footer p {
+    margin: 0; }
