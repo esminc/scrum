@@ -53,6 +53,9 @@ body {
     width: 200px;
     height: 200px; }
 
+#credit {
+  text-align: right; }
+
 #message {
   width: 600px;
   margin: 0 auto;
