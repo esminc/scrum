@@ -35,6 +35,20 @@ body {
     color: gray;
     font-size: 14pt; }
 
+table#methods {
+  align: left;
+  margin: auto;
+  border-collapse: collapse; }
+  table#methods th {
+    border: 1px solid #999999; }
+  table#methods td {
+    border: 1px solid #999999; }
+
+#banner a {
+  border: 0px; }
+#banner img {
+  border: 0px; }
+
 #service {
   width: 760px;
   padding: 20px; }
